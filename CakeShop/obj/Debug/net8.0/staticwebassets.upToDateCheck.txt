@@ -1,5 +1,12 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\images\cake1.jpg
+wwwroot\images\cake2.jpg
+wwwroot\images\cake3.jpg
+wwwroot\images\cake4.jpg
+wwwroot\images\cake5.jpg
+wwwroot\images\cake6.jpg
+wwwroot\images\水果千層.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map

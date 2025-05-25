@@ -11,6 +11,7 @@ namespace CakeShop.Data
             : base(options)
         {
         }
+        // 加入你的 DbSet
         public DbSet<Cake> Cakes { get; set; }
         public DbSet<ShoppingCartItem> ShoppingCartItems { get; set; }
         public DbSet<Order> Orders { get; set; }

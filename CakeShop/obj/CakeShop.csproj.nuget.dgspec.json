@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\練習\\Web-api\\CakeShop\\CakeShop\\CakeShop.csproj": {}
+    "C:\\Users\\user\\Desktop\\C#專班課程\\CakeShop\\CakeShop\\CakeShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\練習\\Web-api\\CakeShop\\CakeShop\\CakeShop.csproj": {
+    "C:\\Users\\user\\Desktop\\C#專班課程\\CakeShop\\CakeShop\\CakeShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\練習\\Web-api\\CakeShop\\CakeShop\\CakeShop.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\C#專班課程\\CakeShop\\CakeShop\\CakeShop.csproj",
         "projectName": "CakeShop",
-        "projectPath": "C:\\Users\\user\\Desktop\\練習\\Web-api\\CakeShop\\CakeShop\\CakeShop.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\C#專班課程\\CakeShop\\CakeShop\\CakeShop.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\練習\\Web-api\\CakeShop\\CakeShop\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\C#專班課程\\CakeShop\\CakeShop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,9 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://packagesource": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -68,13 +66,17 @@
               "target": "Package",
               "version": "[8.0.16, )"
             },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[8.0.16, )"
             },
-            "Newtonsoft.Json": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[13.0.3, )"
+              "version": "[8.0.7, )"
             }
           },
           "imports": [
